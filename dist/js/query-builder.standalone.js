@@ -277,7 +277,7 @@
 
 /*!
  * jQuery QueryBuilder 2.5.2
- * Copyright 2014-2018 Damien "Mistic" Sorel (http://www.strangeplanet.fr)
+ * Copyright 2014-2020 Damien "Mistic" Sorel (http://www.strangeplanet.fr)
  * Licensed under MIT (https://opensource.org/licenses/MIT)
  */
 (function(root, factory) {

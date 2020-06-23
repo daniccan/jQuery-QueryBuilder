@@ -10,9 +10,9 @@
   "main": "dist/js/query-builder.js",
   "dependencies": {
     "bootstrap": ">=3.1.0 <4",
-    "dot": ">=1.0.3",
+    "dot": "^1.0.3",
     "jquery": "^3.3.1",
-    "jquery-extendext": ">=0.1.2",
+    "jquery-extendext": "^0.1.2",
     "moment": "^2.21.0"
   },
   "devDependencies": {
